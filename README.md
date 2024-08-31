@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Rivaldo 🐼
 
-<!--
-**rivbmbh/rivbmbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools
 
-Here are some ideas to get you started:
+### Languages
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Libraries
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4222?logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![ArcMap](https://img.shields.io/badge/-ArcMap-0178C8?logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-58C1CC?logo=qgis&logoColor=white)
+![Laragon](https://img.shields.io/badge/-Laragon-FF5A00?logo=laragon&logoColor=white)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FCC624?logo=xampp&logoColor=black)
