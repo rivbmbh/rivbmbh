@@ -1,4 +1,4 @@
-# Hi there, I'm Rivaldo 🐼
+# Hi there, I'm Rivaldo 🦾
 
 ## Languages and Tools
 
